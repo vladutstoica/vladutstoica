@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Untitled_2021-Jul-23_08-54-55AM-000_CustomizedView8446818612_png_alpha](https://user-images.githubusercontent.com/23508982/127339232-e0c55a9d-6a08-43bb-99ba-938a1570e3f8.png)
+
 <!--
 **vladutstoica/vladutstoica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
