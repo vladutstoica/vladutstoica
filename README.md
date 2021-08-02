@@ -1,5 +1,5 @@
 #### I'm trying to do something amazing... I guess👋
-![Untitled_2021-Jul-29_01-41-11PM-000_CustomizedView16431727710_png_alpha](https://user-images.githubusercontent.com/23508982/127888751-0962407b-73bf-44f6-8bac-7e15d57134d2.png)
+<!--![Untitled_2021-Jul-29_01-41-11PM-000_CustomizedView16431727710_png_alpha](https://user-images.githubusercontent.com/23508982/127888751-0962407b-73bf-44f6-8bac-7e15d57134d2.png)-->
 ![6b028789-509e-481d-b6e5-30f8e288b367](https://user-images.githubusercontent.com/23508982/127888745-64249cf5-781b-4f6e-83e0-b4e87d032da0.PNG)
 
 <!--
